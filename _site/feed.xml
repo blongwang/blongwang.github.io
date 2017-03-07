@@ -3,10 +3,10 @@
   <channel>
     <title>Blong</title>
     <description>壁龙 blong 壁龙洁具 壁龙卫浴 洁具 卫浴</description>
-    <link>http://192.168.1.101:4000/</link>
-    <atom:link href="http://192.168.1.101:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 07 Mar 2017 13:51:58 +0800</pubDate>
-    <lastBuildDate>Tue, 07 Mar 2017 13:51:58 +0800</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 07 Mar 2017 14:57:06 +0800</pubDate>
+    <lastBuildDate>Tue, 07 Mar 2017 14:57:06 +0800</lastBuildDate>
     <generator>Jekyll v3.4.1</generator>
     
       <item>
@@ -36,8 +36,8 @@
 &lt;p&gt;Dolorem laudantium possimus esse tenetur voluptates nam. corrupti pariatur commodi est omnis excepturi dignissimos. commodi qui cum tempora ipsa porro quasi quis labore ea cum quod sapiente debitis asperiores. ut qui est ipsa enim numquam odit mollitia. velit earum unde qui animi quod earum repellendus facere aperiam nemo. ipsa praesentium aut quam aperiam qui voluptate&lt;/p&gt;
 </description>
         <pubDate>Sat, 02 May 2015 18:57:12 +0800</pubDate>
-        <link>http://192.168.1.101:4000/bussiness/2015/05/02/tom-is-designing-the-new-site.html</link>
-        <guid isPermaLink="true">http://192.168.1.101:4000/bussiness/2015/05/02/tom-is-designing-the-new-site.html</guid>
+        <link>http://localhost:4000/bussiness/2015/05/02/tom-is-designing-the-new-site.html</link>
+        <guid isPermaLink="true">http://localhost:4000/bussiness/2015/05/02/tom-is-designing-the-new-site.html</guid>
         
         <category>design</category>
         
@@ -75,8 +75,8 @@
 &lt;p&gt;Dolorem laudantium possimus esse tenetur voluptates nam. corrupti pariatur commodi est omnis excepturi dignissimos. commodi qui cum tempora ipsa porro quasi quis labore ea cum quod sapiente debitis asperiores. ut qui est ipsa enim numquam odit mollitia. velit earum unde qui animi quod earum repellendus facere aperiam nemo. ipsa praesentium aut quam aperiam qui voluptate&lt;/p&gt;
 </description>
         <pubDate>Fri, 01 May 2015 18:57:12 +0800</pubDate>
-        <link>http://192.168.1.101:4000/design/2015/05/01/a-cup-of-coffee-for-you.html</link>
-        <guid isPermaLink="true">http://192.168.1.101:4000/design/2015/05/01/a-cup-of-coffee-for-you.html</guid>
+        <link>http://localhost:4000/design/2015/05/01/a-cup-of-coffee-for-you.html</link>
+        <guid isPermaLink="true">http://localhost:4000/design/2015/05/01/a-cup-of-coffee-for-you.html</guid>
         
         <category>design</category>
         
@@ -114,8 +114,8 @@
 &lt;p&gt;Dolorem laudantium possimus esse tenetur voluptates nam. corrupti pariatur commodi est omnis excepturi dignissimos. commodi qui cum tempora ipsa porro quasi quis labore ea cum quod sapiente debitis asperiores. ut qui est ipsa enim numquam odit mollitia. velit earum unde qui animi quod earum repellendus facere aperiam nemo. ipsa praesentium aut quam aperiam qui voluptate&lt;/p&gt;
 </description>
         <pubDate>Thu, 30 Apr 2015 18:57:12 +0800</pubDate>
-        <link>http://192.168.1.101:4000/bussiness/2015/04/30/make-some-sketches.html</link>
-        <guid isPermaLink="true">http://192.168.1.101:4000/bussiness/2015/04/30/make-some-sketches.html</guid>
+        <link>http://localhost:4000/bussiness/2015/04/30/make-some-sketches.html</link>
+        <guid isPermaLink="true">http://localhost:4000/bussiness/2015/04/30/make-some-sketches.html</guid>
         
         <category>design</category>
         
@@ -144,8 +144,8 @@
 
 </description>
         <pubDate>Tue, 28 Apr 2015 16:59:59 +0800</pubDate>
-        <link>http://192.168.1.101:4000/jekyll/2015/04/28/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://192.168.1.101:4000/jekyll/2015/04/28/welcome-to-jekyll.html</guid>
+        <link>http://localhost:4000/jekyll/2015/04/28/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://localhost:4000/jekyll/2015/04/28/welcome-to-jekyll.html</guid>
         
         <category>design</category>
         
@@ -183,8 +183,8 @@
 &lt;p&gt;Dolorem laudantium possimus esse tenetur voluptates nam. corrupti pariatur commodi est omnis excepturi dignissimos. commodi qui cum tempora ipsa porro quasi quis labore ea cum quod sapiente debitis asperiores. ut qui est ipsa enim numquam odit mollitia. velit earum unde qui animi quod earum repellendus facere aperiam nemo. ipsa praesentium aut quam aperiam qui voluptate&lt;/p&gt;
 </description>
         <pubDate>Tue, 31 Mar 2015 18:57:12 +0800</pubDate>
-        <link>http://192.168.1.101:4000/bussiness/2015/03/31/tom-is-designing-the-new-site.html</link>
-        <guid isPermaLink="true">http://192.168.1.101:4000/bussiness/2015/03/31/tom-is-designing-the-new-site.html</guid>
+        <link>http://localhost:4000/bussiness/2015/03/31/tom-is-designing-the-new-site.html</link>
+        <guid isPermaLink="true">http://localhost:4000/bussiness/2015/03/31/tom-is-designing-the-new-site.html</guid>
         
         <category>design</category>
         
@@ -222,8 +222,8 @@
 &lt;p&gt;Dolorem laudantium possimus esse tenetur voluptates nam. corrupti pariatur commodi est omnis excepturi dignissimos. commodi qui cum tempora ipsa porro quasi quis labore ea cum quod sapiente debitis asperiores. ut qui est ipsa enim numquam odit mollitia. velit earum unde qui animi quod earum repellendus facere aperiam nemo. ipsa praesentium aut quam aperiam qui voluptate&lt;/p&gt;
 </description>
         <pubDate>Mon, 30 Mar 2015 18:57:12 +0800</pubDate>
-        <link>http://192.168.1.101:4000/design/2015/03/30/a-post-without-image.html</link>
-        <guid isPermaLink="true">http://192.168.1.101:4000/design/2015/03/30/a-post-without-image.html</guid>
+        <link>http://localhost:4000/design/2015/03/30/a-post-without-image.html</link>
+        <guid isPermaLink="true">http://localhost:4000/design/2015/03/30/a-post-without-image.html</guid>
         
         <category>design</category>
         
@@ -261,8 +261,8 @@
 &lt;p&gt;Dolorem laudantium possimus esse tenetur voluptates nam. corrupti pariatur commodi est omnis excepturi dignissimos. commodi qui cum tempora ipsa porro quasi quis labore ea cum quod sapiente debitis asperiores. ut qui est ipsa enim numquam odit mollitia. velit earum unde qui animi quod earum repellendus facere aperiam nemo. ipsa praesentium aut quam aperiam qui voluptate&lt;/p&gt;
 </description>
         <pubDate>Sun, 29 Mar 2015 18:57:12 +0800</pubDate>
-        <link>http://192.168.1.101:4000/bussiness/2015/03/29/make-some-sketches.html</link>
-        <guid isPermaLink="true">http://192.168.1.101:4000/bussiness/2015/03/29/make-some-sketches.html</guid>
+        <link>http://localhost:4000/bussiness/2015/03/29/make-some-sketches.html</link>
+        <guid isPermaLink="true">http://localhost:4000/bussiness/2015/03/29/make-some-sketches.html</guid>
         
         <category>design</category>
         
@@ -300,8 +300,8 @@
 &lt;p&gt;Dolorem laudantium possimus esse tenetur voluptates nam. corrupti pariatur commodi est omnis excepturi dignissimos. commodi qui cum tempora ipsa porro quasi quis labore ea cum quod sapiente debitis asperiores. ut qui est ipsa enim numquam odit mollitia. velit earum unde qui animi quod earum repellendus facere aperiam nemo. ipsa praesentium aut quam aperiam qui voluptate&lt;/p&gt;
 </description>
         <pubDate>Sat, 28 Mar 2015 18:57:12 +0800</pubDate>
-        <link>http://192.168.1.101:4000/design/2015/03/28/my-desk.html</link>
-        <guid isPermaLink="true">http://192.168.1.101:4000/design/2015/03/28/my-desk.html</guid>
+        <link>http://localhost:4000/design/2015/03/28/my-desk.html</link>
+        <guid isPermaLink="true">http://localhost:4000/design/2015/03/28/my-desk.html</guid>
         
         <category>design</category>
         
@@ -339,8 +339,8 @@
 &lt;p&gt;Dolorem laudantium possimus esse tenetur voluptates nam. corrupti pariatur commodi est omnis excepturi dignissimos. commodi qui cum tempora ipsa porro quasi quis labore ea cum quod sapiente debitis asperiores. ut qui est ipsa enim numquam odit mollitia. velit earum unde qui animi quod earum repellendus facere aperiam nemo. ipsa praesentium aut quam aperiam qui voluptate&lt;/p&gt;
 </description>
         <pubDate>Fri, 27 Mar 2015 18:57:12 +0800</pubDate>
-        <link>http://192.168.1.101:4000/bussiness/2015/03/27/look-what-we-have-done.html</link>
-        <guid isPermaLink="true">http://192.168.1.101:4000/bussiness/2015/03/27/look-what-we-have-done.html</guid>
+        <link>http://localhost:4000/bussiness/2015/03/27/look-what-we-have-done.html</link>
+        <guid isPermaLink="true">http://localhost:4000/bussiness/2015/03/27/look-what-we-have-done.html</guid>
         
         <category>design</category>
         
@@ -378,8 +378,8 @@
 &lt;p&gt;Dolorem laudantium possimus esse tenetur voluptates nam. corrupti pariatur commodi est omnis excepturi dignissimos. commodi qui cum tempora ipsa porro quasi quis labore ea cum quod sapiente debitis asperiores. ut qui est ipsa enim numquam odit mollitia. velit earum unde qui animi quod earum repellendus facere aperiam nemo. ipsa praesentium aut quam aperiam qui voluptate&lt;/p&gt;
 </description>
         <pubDate>Thu, 26 Mar 2015 18:57:12 +0800</pubDate>
-        <link>http://192.168.1.101:4000/design/2015/03/26/the-start.html</link>
-        <guid isPermaLink="true">http://192.168.1.101:4000/design/2015/03/26/the-start.html</guid>
+        <link>http://localhost:4000/design/2015/03/26/the-start.html</link>
+        <guid isPermaLink="true">http://localhost:4000/design/2015/03/26/the-start.html</guid>
         
         <category>design</category>
         
