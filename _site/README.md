@@ -1,2 +1,2 @@
 # Blong #
-Jekyll website for http://blong.net.cn
+Jekyll website for http://blong.wang
