@@ -1,5 +1,5 @@
-- name: 主页
-  path: index.html
+- name: 首页
+  path: ./
   section_id: home
 - name: 关于壁龙
   path: about.html
